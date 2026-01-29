@@ -1,3 +1,4 @@
 # khushi_eds1
-its my first git repository
+It's my first git repository.
+<br>
 Auther-Khush mangrulkar
